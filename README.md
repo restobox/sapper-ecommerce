@@ -69,6 +69,9 @@ Open http://localhost:4400 on chrome. Your app should be live
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/sapper-ecommerce"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
+### Deploy to AzureStatic
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/sapper-ecommerce"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 ### Setup devops/live.js (Change according to your hosting envirnoment)
 
 ```
